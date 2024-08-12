@@ -1,9 +1,4 @@
-# ollama-ui
 
-Just a simple HTML UI for Ollama
-
-Now available as a chrome extension!
-https://chrome.google.com/webstore/detail/ollama-ui/cmgdpmlhgjhoadnonobjeekmfcehffco
 
 ## Usage
 
